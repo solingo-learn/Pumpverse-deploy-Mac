@@ -1,0 +1,11 @@
+{
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "rewrites": [
+    { "source": "/episodes", "destination": "/episodes.html" },
+    { "source": "/characters", "destination": "/characters.html" },
+    { "source": "/lore", "destination": "/lore.html" },
+    { "source": "/community", "destination": "/community.html" },
+    { "source": "/trenches", "destination": "/trenches.html" }
+  ]
+}

@@ -1,0 +1,27 @@
+[build]
+  publish = "."
+
+[[redirects]]
+  from = "/episodes"
+  to = "/episodes.html"
+  status = 200
+
+[[redirects]]
+  from = "/characters"
+  to = "/characters.html"
+  status = 200
+
+[[redirects]]
+  from = "/lore"
+  to = "/lore.html"
+  status = 200
+
+[[redirects]]
+  from = "/community"
+  to = "/community.html"
+  status = 200
+
+[[redirects]]
+  from = "/trenches"
+  to = "/trenches.html"
+  status = 200
